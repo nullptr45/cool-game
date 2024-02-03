@@ -8,9 +8,9 @@
 
 #include <raylib.h>
 
-#define SCREEN_WIDTH 1280
-#define SCREEN_HEIGHT 720
-#define TITLE "Game"
+#define SCREEN_WIDTH    1280
+#define SCREEN_HEIGHT   720
+#define TITLE           "Game"
 
 static void init_server(void)
 {
