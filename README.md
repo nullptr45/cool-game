@@ -2,9 +2,17 @@
 If you use Windows, haha :)
 
 ## Server
-```make```
-```./bin/game server```
+```bash
+make
+```
+```bash
+./bin/game server
+```
 
 ## Client
-```make```
-```./bin/game client <port>```
+```bash
+make
+```
+```bash
+./bin/game client <port>
+```
