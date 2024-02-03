@@ -1,0 +1,11 @@
+-I
+src
+
+-I
+/usr/local/include
+
+-W
+all
+
+-W
+extra
